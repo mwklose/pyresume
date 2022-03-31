@@ -130,3 +130,7 @@ dmypy.json
 
 # Ignore pycharm things
 .idea/
+
+# Ignore temp file
+temp
+,pypirc
