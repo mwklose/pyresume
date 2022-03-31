@@ -133,4 +133,4 @@ dmypy.json
 
 # Ignore temp file
 temp
-,pypirc
+.pypirc
