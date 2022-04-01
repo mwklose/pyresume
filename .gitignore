@@ -134,3 +134,6 @@ dmypy.json
 # Ignore main.py file
 main.py
 .pypirc
+
+.DS_Store
+*.pdf
